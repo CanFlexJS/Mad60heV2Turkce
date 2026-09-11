@@ -8,23 +8,23 @@ Bu yama, **Mad60 HE** ve **Mad60 HE v2 Dual Led** manyetik switch (Rapid Trigger
 
 > ⚠️ **ÖNEMLİ NOT:**  
 > GitHub'ın sağ üstteki yeşil **`Code -> Download ZIP`** butonu büyük dosyaları (Git LFS) eksik indirdiği için indirdiğiniz dosya bozuk çıkabilir.  
-> **Yamayı sorunsuz kullanmak için aşağıdaki resmi Releases bağlantısından indirin:**
+> **Yamayı sorunsuz kullanmak için aşağıdaki doğrudan indirme bağlantılarını kullanın:**
 
-* 🔗 **[📥 Türkçe Yamayı İndir (app.asar - v1.0.1)](https://github.com/CanFlexJS/Mad60heV2Turkce/releases/latest/download/app.asar)**
-* 🔗 **[📦 Tüm Sürümler (GitHub Releases)](https://github.com/CanFlexJS/Mad60heV2Turkce/releases)**
-* 🔗 **[⚡ Otomatik-Kurulum.bat İndir](https://raw.githubusercontent.com/CanFlexJS/Mad60heV2Turkce/main/Otomatik-Kurulum.bat)**
+* 🔗 **[📦 Tek Tıkla Kurulum Paketi İndir (Mad60HE-Turkce-Yama.zip - ÖNERİLEN)](https://github.com/CanFlexJS/Mad60heV2Turkce/releases/latest/download/Mad60HE-Turkce-Yama.zip)**
+* 🔗 **[⚡ Otomatik-Kurulum.bat Doğrudan İndir](https://github.com/CanFlexJS/Mad60heV2Turkce/releases/latest/download/Otomatik-Kurulum.bat)**
+* 🔗 **[📥 Sadece app.asar İndir](https://github.com/CanFlexJS/Mad60heV2Turkce/releases/latest/download/app.asar)**
+* 🔗 **[🌐 Tüm Sürümler (GitHub Releases)](https://github.com/CanFlexJS/Mad60heV2Turkce/releases)**
 
 ---
 
 ## 🚀 Kurulum Talimatları
 
-Yamayı iki farklı yöntemle kolayca kurabilirsiniz:
-
-### 1. Yöntem: Otomatik Kurulum (Tavsiye Edilen)
-1. Yukarıdaki bağlantılardan `app.asar` dosyasını ve [`Otomatik-Kurulum.bat`](https://raw.githubusercontent.com/CanFlexJS/Mad60heV2Turkce/main/Otomatik-Kurulum.bat) dosyasını **aynı klasöre** indirin.
-2. `Otomatik-Kurulum.bat` dosyasına çift tıklayın.
-3. Yönetici izni ekranı geldiğinde **"Evet"** deyin.
-4. Program otomatik olarak:
+### 1. Yöntem: Tek Tıkla Otomatik Kurulum (En Kolay Yol)
+1. **[Mad60HE-Turkce-Yama.zip](https://github.com/CanFlexJS/Mad60heV2Turkce/releases/latest/download/Mad60HE-Turkce-Yama.zip)** dosyasını indirin.
+2. İndirilen ZIP dosyasına sağ tıklayıp **"Tümünü Ayıkla" (Klasöre Çıkar)** deyin.
+3. Çıkan klasördeki **`Otomatik-Kurulum.bat`** dosyasına çift tıklayın.
+4. Yönetici izni ekranı geldiğinde **"Evet"** deyin.
+5. Program otomatik olarak:
    - Arka plandaki FGG-HUB'ı kapatır,
    - Orijinal dosyanızı (`app.asar.bak`) olarak yedekler,
    - Türkçe yamayı kurar ve uygulamayı başlatır.
@@ -34,12 +34,12 @@ Yamayı iki farklı yöntemle kolayca kurabilirsiniz:
 ### 2. Yöntem: Manuel Kurulum (Elle Kopyalama)
 1. **FGG-HUB** uygulamasını tamamen kapatın (Sağ alttaki sistem tepsisinden de sağ tıklayıp çıkış yapın).
 2. İndirdiğiniz **`app.asar`** dosyasını kopyalayın (`Ctrl + C`).
-3. Bilgisayarınızda aşağıdaki klasör yoluna gidin:
+3. Bilgisayarınızda şu klasör yoluna gidin:
    ```text
    C:\Program Files\FGG-HUB\resources
    ```
    *(Eğer farklı bir konuma kurduysanız, programın kurulu olduğu yerdeki `resources` klasörüne gidin.)*
-4. İleride geri dönebilmek için klasördeki mevcut `app.asar` dosyasının adını `app.asar.bak` olarak değiştirin.
+4. İleride geri dönebilmek için mevcut `app.asar` dosyasının adını `app.asar.bak` olarak değiştirin.
 5. Kopyaladığınız yeni `app.asar` dosyasını buraya yapıştırın (`Ctrl + V`). (Yönetici izni isterse "Devam" deyin).
 6. **FGG-HUB** uygulamasını başlatın. Programınız artık Türkçe!
 
