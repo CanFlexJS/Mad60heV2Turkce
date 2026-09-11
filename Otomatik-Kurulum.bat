@@ -5,7 +5,7 @@ color 0B
 
 echo =========================================================
 echo       Mad60 HE / FGG-HUB Turkce Yama Otomatik Kurucu
-echo       Gelistirici: CanFlexJS
+echo       Gelistirici: Desh (@desh.flow)
 echo =========================================================
 echo.
 

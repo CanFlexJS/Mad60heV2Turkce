@@ -10,7 +10,7 @@ Bu yama, **Mad60 HE** ve **Mad60 HE v2 Dual Led** manyetik switch (Rapid Trigger
 > GitHub'ın sağ üstteki yeşil **`Code -> Download ZIP`** butonu büyük dosyaları (Git LFS) eksik indirdiği için indirdiğiniz dosya bozuk çıkabilir.  
 > **Yamayı sorunsuz kullanmak için aşağıdaki resmi Releases bağlantısından indirin:**
 
-* 🔗 **[📥 Türkçe Yamayı İndir (app.asar - v1.0.0)](https://github.com/CanFlexJS/Mad60heV2Turkce/releases/latest/download/app.asar)**
+* 🔗 **[📥 Türkçe Yamayı İndir (app.asar - v1.0.1)](https://github.com/CanFlexJS/Mad60heV2Turkce/releases/latest/download/app.asar)**
 * 🔗 **[📦 Tüm Sürümler (GitHub Releases)](https://github.com/CanFlexJS/Mad60heV2Turkce/releases)**
 * 🔗 **[⚡ Otomatik-Kurulum.bat İndir](https://raw.githubusercontent.com/CanFlexJS/Mad60heV2Turkce/main/Otomatik-Kurulum.bat)**
 
@@ -64,6 +64,7 @@ Yamayı kaldırmak ve İngilizce/Çince orijinal sürüme dönmek isterseniz:
 
 ---
 
-## 🌟 Geliştirici & Katkı
-* Hazırlayan: **CanFlexJS**
-* Proje Sayfası: [GitHub - Mad60heV2Turkce](https://github.com/CanFlexJS/Mad60heV2Turkce)
+## 🌟 Geliştirici & İletişim
+* Hazırlayan / Çeviri: **Desh**
+* Instagram: [**@desh.flow**](https://www.instagram.com/desh.flow/)
+* GitHub: [CanFlexJS / Mad60heV2Turkce](https://github.com/CanFlexJS/Mad60heV2Turkce)
