@@ -1,4 +1,0 @@
-provider: generic
-url: https://fgghub.oss-cn-shenzhen.aliyuncs.com
-publishAutoUpdate: true
-updaterCacheDirName: fgg-hub-updater
